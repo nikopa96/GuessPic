@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/text_help"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/help_1"
+        android:textAlignment="center"
+        android:textSize="16dp" />
+
+    <ImageView
+        android:id="@+id/help_img"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="15dp"
+        app:srcCompat="@drawable/help_hearts" />
+
+    <TextView
+        android:id="@+id/good_luck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="@string/help_4"
+        android:textAlignment="center"
+        android:textSize="16dp"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/help_5"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+</LinearLayout>

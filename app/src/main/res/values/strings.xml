@@ -1,0 +1,245 @@
+<resources>
+    <string name="app_name">GuessPic!</string>
+    <string name="title_activity_choice">ChoiceActivity</string>
+
+    <string name="soon">Скоро!</string>
+
+    <string name="about">О приложении</string>
+
+    <string name="about_GuessPic_1">Игра «Угадай картинку!»</string>
+    <string name="about_GuessPic_2">Версия 1 (BETA)</string>
+    <string name="about_GuessPic_3">Все изображения распространяются по лицензиям Creative Commons, Open Database License, Open Government Licence, GNU FDL, разрешающие модификацию и распространение
+    в коммерческих целях. Некоторые изображения находятся в общественном достоянии. Аттрибуция на каждое изображение присутствует.
+        \n\nАвтор / Author: Nikolai Kopa
+        \n\nКонтакт / Contact me: nikolai.kopa@gmail.com
+        \n\nНиже представлены сторонние библиотеки, используемые в этом приложении ↓
+    </string>
+
+    <string name="about_Fresco_1">Fresco</string>
+    <string name="about_Fresco_2">BSD License</string>
+    <string name="about_Fresco_3">For Fresco software
+    \n\nCopyright (c) 2015-present, Facebook, Inc. All rights reserved.
+    \n\nRedistribution and use in source and binary forms, with or without modification,
+    are permitted provided that the following conditions are met:
+    \n\n* Redistributions of source code must retain the above copyright notice, this
+    list of conditions and the following disclaimer.
+    \n\n* Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+    \n\n* Neither the name Facebook nor the names of its contributors may be used to
+    endorse or promote products derived from this software without specific
+    prior written permission.
+    \n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+    ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+    WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+    DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
+    ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+    (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+    LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+    ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+    (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+    \n\nAdditional Grant of Patent Rights Version 2
+    \n\n"Software" means the Fresco software distributed by Facebook, Inc.
+    \n\nFacebook, Inc. ("Facebook") hereby grants to each recipient of the Software
+    ("you") a perpetual, worldwide, royalty-free, non-exclusive, irrevocable
+    (subject to the termination provision below) license under any Necessary
+    Claims, to make, have made, use, sell, offer to sell, import, and otherwise
+    transfer the Software. For avoidance of doubt, no license is granted under
+    Facebook’s rights in any patent claims that are infringed by (i) modifications
+    to the Software made by you or any third party or (ii) the Software in
+    combination with any software or other technology.
+    \n\nThe license granted hereunder will terminate, automatically and without notice,
+    if you (or any of your subsidiaries, corporate affiliates or agents) initiate
+    directly or indirectly, or take a direct financial interest in, any Patent
+    Assertion: (i) against Facebook or any of its subsidiaries or corporate
+    affiliates, (ii) against any party if such Patent Assertion arises in whole or
+    in part from any software, technology, product or service of Facebook or any of
+    its subsidiaries or corporate affiliates, or (iii) against any party relating
+    to the Software. Notwithstanding the foregoing, if Facebook or any of its
+    subsidiaries or corporate affiliates files a lawsuit alleging patent
+    infringement against you in the first instance, and you respond by filing a
+    patent infringement counterclaim in that lawsuit against that party that is
+    unrelated to the Software, the license granted hereunder will not terminate
+    under section (i) of this paragraph due to such counterclaim.
+    \n\nA "Necessary Claim" is a claim of a patent owned by Facebook that is
+    necessarily infringed by the Software standing alone.
+    \n\nA "Patent Assertion" is any lawsuit or other action alleging direct, indirect,
+    or contributory infringement or inducement to infringe any patent, including a
+    cross-claim or counterclaim.
+    </string>
+
+    <string name="about_Retrofit_1">Retrofit</string>
+    <string name="about_Retrofit_2">Apache License, Version 2.0</string>
+    <string name="about_Retrofit_3">Copyright 2013 Square, Inc.
+    \n\nLicensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+    \n\n\thttp://www.apache.org/licenses/LICENSE-2.0
+    \n\nUnless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.</string>
+
+    <string name="about_Gson_1">GSON</string>
+    <string name="about_Gson_2">Apache License, Version 2.0</string>
+    <string name="about_Gson_3">Copyright 2008 Google Inc.
+    \n\nLicensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+    \n\n\thttp://www.apache.org/licenses/LICENSE-2.0
+    \n\nUnless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.</string>
+
+    <string name="about_FacebookSDK_1">Facebook SDK for Android</string>
+    <string name="about_FacebookSDK_2">Facebook Platform License</string>
+    <string name="about_FacebookSDK_3">Copyright (c) 2014-present, Facebook, Inc. All rights reserved.
+    \n\nYou are hereby granted a non-exclusive, worldwide, royalty-free license to use,
+    copy, modify, and distribute this software in source code or binary form for use
+    in connection with the web services and APIs provided by Facebook.
+    \n\nAs with any software that integrates with the Facebook platform, your use of
+    this software is subject to the Facebook Developer Principles and Policies
+    [http://developers.facebook.com/policy/]. This copyright notice shall be
+    included in all copies or substantial portions of the software.
+    \n\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+    FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+    COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+    IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
+
+    <string name="about_VKAndroidSDK_1">VK Android SDK</string>
+    <string name="about_VKAndroidSDK_2">The MIT License (MIT)</string>
+    <string name="about_VKAndroidSDK_3">Copyright (c) 2014 VK.com
+    \n\nPermission is hereby granted, free of charge, to any person obtaining a copy of
+    this software and associated documentation files (the "Software"), to deal in
+    the Software without restriction, including without limitation the rights to
+    use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+    the Software, and to permit persons to whom the Software is furnished to do so,
+    subject to the following conditions:
+    \n\nThe above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+    \n\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+    FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+    COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+    IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
+
+    <string name="about_font_1">Krabuler Font</string>
+    <string name="about_font_2">Russian Fonts License</string>
+    <string name="about_font_3">Действие данной лицензии автоматически вступает силу после
+    установки шрифта на компьютер или любое другое оборудование.
+    \n\nШрифт можно использовать в личных и коммерческих.
+    \n\nИсключение. Телевизионные компании и анимационные/
+    мультипликационные студии (средства массовой информации)
+    должны заключить отдельный договор на расширенную
+    неисключительную лицензию позволяющую использовать шрифты
+    в своих материалах (аудиовизуальной продукции). Использование
+    шрифтов для телевизионных компаний и анимационных/
+    мультипликационных студий предоставляется на платной основе.
+    \n\nЗапрещается создавать на основе шрифта его копии или аналоги
+    для личного/коммерческого использования или дальнейшего
+    распространения.
+    \n\nШрифт и сопутствующие материалы защищены авторским правом
+    и содержат конфиденциальную информацию и коммерческую
+    тайну относящуюся к разработчику (russianfonts.ru) выпустившему
+    шрифт. Несанкционированное копирование, модификация
+    категорически запрещено. Вы можете быть привлечены к
+    юридической ответственности за любое нарушение авторских прав
+    интеллектуальной собственности обусловленного несоблюдением
+    данного соглашения (ГК РФ ст. 1259 пункт 1).
+    \n\nРазработчик не гарантирует бесперебойной или безошибочной
+    работы на ваш устройствах и оборудовании.</string>
+
+
+    <string name="music">Музыка</string>
+
+    <integer name="com_vk_sdk_AppId">6163988</integer>
+    <string name="vk_success">Картинка опубликована на вашей стене ВК</string>
+    <string name="vk_error">Ошибка входа ВК</string>
+
+    <string name="facebook_app_id">113293639384475</string>
+    <string name="fb_login_protocol_scheme">fb113293639384475</string>
+    <string name="fb_success">Картинка опубликована в вашей хронике Facebook</string>
+    <string name="fb_error">Ошибка входа Facebook</string>
+
+    <string name="did_not_know">Я этого не знал</string>
+
+    <string name="single_game">Одиночная игра</string>
+    <string name="game_with_friend">Игра с другом</string>
+    <string name="internet_access">Необходимо подключение к интернету</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="pause">Пауза</string>
+    <string name="continue_game">Продолжить</string>
+    <string name="go_to_choose_category">Выбрать новую категорию</string>
+    <string name="go_to_main_menu">Выйти в главное меню</string>
+
+    <string name="harder">Усложняем!</string>
+
+    <string name="help_1">У вас есть 5 жизней и 10 секунд на ответ \n \n Если ответите неправильно — потеряете жизнь, если не успеете ответить — потеряете жизнь</string>
+    <string name="help_2">Ваша задача — набрать как можно больше очков в течении 120 секунд \n \n Если выберете неправильный ответ — жизнь не потеряете</string>
+    <string name="help_3">Получить информацию о песне можно нажав на кнопку «назад» \n \n Нажав на кнопку справа вы сможете узнать информацию об авторском праве на это изображение</string>
+    <string name="help_4">Удачной игры!</string>
+    <string name="help_5">Далее</string>
+    <string name="help_6">Закрыть</string>
+
+    <string name="title_bar_name">Выберите категорию</string>
+
+    <string name="game_over_1">Игра</string>
+    <string name="game_over_2">окончена!</string>
+    <string name="score">счёт</string>
+    <string name="new_record">новый рекорд!</string>
+    <string name="share">поделиться</string>
+    <string name="go_screen_restart">заново</string>
+    <string name="go_screen_cat">к категориям</string>
+    <string name="no_more_answers_1">Вы супер!</string>
+    <string name="no_more_answers_2">Вы дали 45 правильных ответов и в нашей базе данных закончились картинки для этой категории.</string>
+    <string name="no_more_answers_3">Перейти на страницу результатов</string>
+    <string name="no_more_answers_4">вы угадали всё!</string>
+
+    <string name="animals">Животные</string>
+    <string name="dogs">Собаки</string>
+    <string name="attractions">Достопримеча-\nтельности</string>
+    <string name="autos">Автомобили</string>
+    <string name="devices">Устройства</string>
+    <string name="historical_events">Исторические события</string>
+    <string name="towns">Города</string>
+    <string name="flags">Флаги и гербы</string>
+    <string name="paintings">Картины</string>
+    <string name="persons">Знаменитые личности</string>
+    <string name="weapons">Военная техника и оружие</string>
+
+    <string name="game_for_live">Игра на жизни</string>
+    <string name="game_for_time">Игра на время</string>
+
+    <string name="cc_attribution_1">Это изображение — изменённое</string>
+    <string name="cc_attribution_2">фото</string>
+    <string name="cc_attribution_3">автора</string>
+    <string name="cc_attribution_4">, распространяемое под лицензией</string>
+    <string name="cc_attribution_5">Показанное вам изображение также распространяется под лицензией</string>
+    <string name="cc_attribution_6">автором этого приложения.</string>
+
+    <string name="pd_attribution_1">Это изображение — изменённое</string>
+    <string name="pd_attribution_2">фото</string>
+    <string name="pd_attribution_3">автора</string>
+    <string name="pd_attribution_4">, находящееся в общественном достоянии.</string>
+    <string name="pd_attribution_5">Показанное вам изображение также отдано в общественное достояние автором этого приложения.</string>
+
+    <string name="odbl_attribution_1">«© Участники OpenStreetMap».</string>
+
+    <string name="custom_attribution_1"><Data><![CDATA[<a href=\'https://en.wikipedia.org/wiki/User:Cyrillic\'>Cyrillic</a> at the <a href=\'https://en.wikipedia.org/wiki/Main_Page\'>English language Wikipedia</a>]]></Data></string>
+    <string name="custom_attribution_2"><Data><![CDATA[<a href=\'https://ru.wikipedia.org/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Sinodov\'>Sinodov</a> at <a href=\'https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0\'>Russian Wikipedia</a>]]></Data></string>
+    <string name="custom_attribution_3">© Ad Meskens / Wikimedia Commons</string>
+    <string name="custom_attribution_4">Photo: Graeme Main/MOD</string>
+    <string name="custom_attribution_5"><Data><![CDATA[<a href=\'https://en.wikipedia.org/wiki/User:Quickload\'>Quickload</a> at <a href=\'https://en.wikipedia.org/wiki/Main_Page\'>English Wikipedia</a>]]></Data></string>
+    <string name="custom_attribution_6"><Data><![CDATA[By: Tontan Travel <br>Link: <a href=\'www.tontantravel.com\'>www.tontantravel.com</a>]]></Data></string>
+    <string name="custom_attribution_7"><Data><![CDATA[Wellcome Library, London. Wellcome Images images@wellcome.ac.uk <a href=\'http://wellcomeimages.org\'>http://wellcomeimages.org</a> A duck billed platypus (watermole). Colour lithograph after W. Kuhnert. By: Wilhelm KuhnertPublished: -
+<\br>Copyrighted work available under Creative Commons Attribution only licence CC BY 4.0 <a href=\'https://creativecommons.org/licenses/by/4.0/\'>https://creativecommons.org/licenses/by/4.0/</a>]]></Data></string>
+    <string name="custom_attribution_8">Photo by Greg Hume</string>
+</resources>
